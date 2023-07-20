@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Nike Air Force 1 '07 LV8",
+    "description": "La luminosidad sigue viva con este calzado",
+    "price": 110,
+    "thumbnail": "sin imgen",
+    "code": 11,
+    "stock": 3
+  },
+  {
+    "id": 2,
+    "title": "Air Jordan 5 Retro SE",
+    "description": "El amado diseño de Tinker Hatfield",
+    "price": 240,
+    "thumbnail": "sin imgen",
+    "code": 12,
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "title": "Nike Air Force 1 Mid '07 LX",
+    "description": "La alegre versión del ícono del básquetbol",
+    "price": 160,
+    "thumbnail": "sin imgen",
+    "code": 13,
+    "stock": 1
+  },
+  {
+    "id": 4,
+    "title": "Jordan Max Aura 4",
+    "description": "Toma vuelo en la cancha con un estilo atemporal",
+    "price": 147,
+    "thumbnail": "sin imgen",
+    "code": 14,
+    "stock": 12
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Force 1 '07 LV8",
+    "description": "La calidez de invierno se une al estilo AF1",
+    "price": 120,
+    "thumbnail": "sin imgen",
+    "code": 15,
+    "stock": 9
+  },
+  {
+    "id": 6,
+    "title": "Jordan Air 200E",
+    "description": "Diseñado para recorrer las calles con la comodidad y actitud",
+    "price": 150,
+    "thumbnail": "sin imgen",
+    "code": 16,
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "title": "Nike Air Force 1 '07 LX",
+    "description": "ESTILO LEGENDARIO Y REFINADO.",
+    "price": 150,
+    "thumbnail": "sin imgen",
+    "code": 17,
+    "stock": 4
+  },
+  {
+    "id": 8,
+    "title": "Adidas Ultra Boost",
+    "description": "Las mejores zapatillas para correr",
+    "price": 70,
+    "thumbnail": "sin imgen",
+    "code": 18,
+    "stock": 10
+  }
+]
